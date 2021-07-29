@@ -1,0 +1,47 @@
+[33mcommit 7f43f41387fd63636909af218dc1fb3f4022acd1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Joao Leiva <joao.leiva@externos.bci.cl>
+Date:   Thu Jul 29 15:10:40 2021 -0400
+
+    se sube carpeta src
+
+[33mcommit bb895a1a8c3cc1ce2390096eb637e9b0b022ccd4[m
+Author: Joao Leiva <joao.leiva@externos.bci.cl>
+Date:   Thu Jul 29 15:10:16 2021 -0400
+
+    se agrega pom.xml
+
+[33mcommit aec6e0c817496e82deb25c033e74d01c53df17cd[m
+Author: Joao Leiva <joao.leiva@externos.bci.cl>
+Date:   Thu Jul 29 15:08:45 2021 -0400
+
+    Se agrega jquery
+
+[33mcommit 51fe3b4ddc2d165bfb161e1451775ca59e67b66b[m
+Author: Joao Leiva <joao.leiva@externos.bci.cl>
+Date:   Thu Jul 29 15:04:40 2021 -0400
+
+    Se crea testSuite xml
+
+[33mcommit b3e20ae66fa3c918760d1d8ff7efe9f965d0191c[m
+Author: Joao Leiva <joao.leiva@externos.bci.cl>
+Date:   Thu Jul 29 14:54:14 2021 -0400
+
+    se crea page FormularioContratacionPage
+
+[33mcommit a55786b2250652e69ccce2e6cd34614b02804e41[m
+Author: Joao Leiva <joao.leiva@externos.bci.cl>
+Date:   Thu Jul 29 14:53:01 2021 -0400
+
+    Se sube clase RetomarContratacionPage
+
+[33mcommit fc61383b614d472e2c91b902f1868eff714979b4[m
+Author: Joao Leiva <joao.leiva@externos.bci.cl>
+Date:   Thu Jul 29 14:50:46 2021 -0400
+
+    se cre page 1
+
+[33mcommit 1123295cbc1855e6fd13f68464f5e6f865f34789[m
+Author: Joao Leiva <joao.leiva@externos.bci.cl>
+Date:   Thu Jul 29 14:49:13 2021 -0400
+
+    Se sube clase bASE
